@@ -1,3 +1,7 @@
+[![Documentation Status](http://docs.planfront.net/projects/js-worker-search/badge/?version=latest)](http://docs.planfront.net/docs/js-worker-search/?badge=latest)
+
+Docs are in docs/ and http://docs.planfront.net/docs/js-worker-search/
+
 js-worker-search
 -----
 
